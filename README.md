@@ -32,6 +32,8 @@ Sobre a funcionalidade de multilínguas:
 
 -É possível alterar ou adicionar idiomas, mas não me recordo dos detalhes neste momento. Em breve adicionarei essas instruções.
 
+-Tudo que não estiver dentro de um comando \multilanguage irá sempre aparecer no PDF final. Isso é útil para campos que não precisam mudar, como nomes, endereços e datas.
+
 Alguns campos não geram textos diretamente no PDF, mas alteram por exemplo um link ou uma meta informação. Recomendo reler todo o arquivo .tex antes de dar como finalizado. Os principais seguem abaixo:
 -pdfauthor e pdftitle
 -link do linkedin
